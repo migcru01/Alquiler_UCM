@@ -11,4 +11,10 @@ Repositorio para el trabajo en grupo de la asignatura de IS1 de Ing. Informátic
 - Para productos que no se consigan vender, permitir la posibilidad de sortearlo o hacer "cajas sorpresa".
 - Igualar el valor de los prodcutos. Mediante chat, añadir otro objeto, etc...
 - Control de estafas.
-- 
+- Anuncios, promociones, suscripciones (versión de app gratuita y versión de pago).
+- Cobro de envíos.
+- Comunidades, canales, etc...
+  
+- Cosas que nos gustaría implementar: mistery box.
+
+Reunión finalizada.
